@@ -1,0 +1,10 @@
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\YichenYLLiuAssignment1.csprojAssemblyReference.cache
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\YichenYLLiuAssignment1.Form1.resources
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\YichenYLLiuAssignment1.csproj.GenerateResource.cache
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\YichenYLLiuAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\askl3\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
